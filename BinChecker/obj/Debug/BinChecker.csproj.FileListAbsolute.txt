@@ -1,0 +1,13 @@
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.Form1.resources
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.Properties.Resources.resources
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.csproj.GenerateResource.cache
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.csproj.CoreCompileInputs.cache
+D:\BinChecker\BinChecker\BinChecker\bin\Debug\BinChecker.exe.config
+D:\BinChecker\BinChecker\BinChecker\bin\Debug\BinChecker.exe
+D:\BinChecker\BinChecker\BinChecker\bin\Debug\BinChecker.pdb
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.exe
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.pdb
+D:\BinChecker\BinChecker\BinChecker\bin\Debug\Newtonsoft.Json.dll
+D:\BinChecker\BinChecker\BinChecker\bin\Debug\Newtonsoft.Json.xml
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.csproj.CopyComplete
+D:\BinChecker\BinChecker\BinChecker\obj\Debug\BinChecker.csprojAssemblyReference.cache
